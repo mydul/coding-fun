@@ -7,7 +7,7 @@ Mainly, the Project title will be **"Making Virus"**.
 
 ### Project Goals
 
-To know the core concepts of Coding from a learning perspective. It allows you to create and build things using a computer, whether it's a simple program or a complex website. Coding involves writing instructions in a programming language that the computer can understand and execute. This process can be challenging at times, but it can also be very rewarding when you see your code come to life and do what you intended it to do.
+To know the core concepts of coding or programming from a fun. Especially for school kids learning perspective. It allows you to create and build things using a computer, whether it's a simple program or a complex website. Coding involves writing instructions in a programming language that the computer can understand and execute. This process can be challenging at times, but it can also be very rewarding when you see your code come to life and do what you intended it to do.
 
 One of the great things about coding is that there are so many different ways to approach a problem, and there are always new things to learn and discover. Whether you're just starting out or you're an experienced coder, there's always something new to learn and new ways to improve your skills.
 
@@ -15,8 +15,7 @@ Coding can be a great hobby or career path, and it's a skill that is in high dem
 
 ### Project Details
 
-**VBScript MsgBox Function:**
-The MsgBox function displays a message box and waits for the user to click a button and then an action is performed based on the button clicked by the user.
+VBScript MsgBox Function: The MsgBox function displays a message box and waits for the user to click a button and then an action is performed based on the button clicked by the user.
 
 To display message boxes in VBScript you have to use the Msgbox function, if you want to display the Yes or No buttons you need to pass additional parameters to the function.
 
@@ -39,9 +38,6 @@ Output:
  ![error](https://user-images.githubusercontent.com/13613236/209034083-d1026d59-0082-4f7e-8b2f-42aabbad6ac9.png)
 
 
-## Desclimer!
-
-- No harmful things are implied.
 
 ## Instructions
 - Create a .txt file on Notepad, name it.
@@ -50,7 +46,7 @@ Output:
 - Run
 - What happened? You can't close the Popup window or Error message by clicking OK or anyway; right?
 
-**It's FUN**
+                            **It's FUN!! Ha Ha**
 
 - Don't worry! You have another way to close the Popup window :)
 - Right click on **Start (button)**
@@ -63,9 +59,13 @@ The fun part is you already learned how to create a "VBScript MsgBox Function" i
 
 So, if you put that VBS file on someone's computer and they click it, they will be blown away. The fear of the VIRUS they will be in tension.
 
+## Desclimer!
+
+- No harmful things are implied. Especially to educate school kids learning purposes can be used in such a way.
+
 ## License
 
-Distributed for all student under the [personal](https://github.com/mydul) licence.
+Distributed for all school student under the [personal](https://github.com/mydul) licence.
 
 
 ## Authors
