@@ -40,13 +40,13 @@ Output:
 
 
 ## Instructions
-- Create a .txt file on Notepad, name it.
+- Create a **.txt** file on **Notepad**, name it.
 - Copy the source code. You can write whatever you want in between those quotation marks! Those will be shown in on PopUp window.
-- Save it. And rename the file with .vbs extension.
+- Save it. And rename the file with **.vbs** extension.
 - Run
 - What happened? You can't close the Popup window or Error message by clicking OK or anyway; right?
 
-                            **It's FUN!! Ha Ha**
+                                                **It's FUN!! Ha Ha**
 
 - Don't worry! You have another way to close the Popup window :)
 - Right click on **Start (button)**
