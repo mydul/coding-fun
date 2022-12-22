@@ -29,7 +29,8 @@ LOOP
 
 Output:
 
-> Hello, world!
+ ![error](https://user-images.githubusercontent.com/13613236/209034083-d1026d59-0082-4f7e-8b2f-42aabbad6ac9.png)
+
 
 ## Alart!
 
