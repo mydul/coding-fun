@@ -61,7 +61,7 @@ So, if you put that VBS file on someone's computer and they click it, they will 
 
 ## Desclimer!
 
-- No harmful things are implied. Especially to educate school kids learning purposes can be used in such a way.
+No harmful things are implied. Especially to educate school kids learning purposes can be used in such a way.
 
 ## License
 
