@@ -13,13 +13,20 @@ One of the great things about coding is that there are so many different ways to
 
 Coding can be a great hobby or career path, and it's a skill that is in high demand in today's tech-driven world. It can be a fun and exciting way to express your creativity and make a positive impact on the world.
 
+### Project Details
+
+**VBScript MsgBox Function:**
+The MsgBox function displays a message box and waits for the user to click a button and then an action is performed based on the button clicked by the user.
+
+To display message boxes in VBScript you have to use the Msgbox function, if you want to display the Yes or No buttons you need to pass additional parameters to the function.
+
+Today we are going to write "Do Loops in VbScript"; which loops or repeats something until a condition is satisfied.
 
 ## Demo
 
 Source Code:
 
 ```python
-# You can write whatever you want in between those quotation marks! Those will be shown on PopUp window.
 
 do
 msg1 = msgbox("Virus Alert! Click OK to close the application. But you Can't ;) ",o,"System Error by Mydul!")
@@ -32,21 +39,33 @@ Output:
  ![error](https://user-images.githubusercontent.com/13613236/209034083-d1026d59-0082-4f7e-8b2f-42aabbad6ac9.png)
 
 
-## Alart!
+## Desclimer!
 
 - No harmful things are implied.
 
+## Instructions
+- Create a .txt file on Notepad, name it.
+- Copy the source code. You can write whatever you want in between those quotation marks! Those will be shown in on PopUp window.
+- Save it. And rename the file with .vbs extension.
+- Run
+- What happened? You can't close the Popup window or Error message by clicking OK or anyway; right?
+
+**It's FUN**
+
+- Don't worry! You have another way to close the Popup window :)
+- Right click on **Start (button)**
+- Click on **Task Manager**
+- Right click on **wscript.exe** in **Process tab**
+- Click on **End task**
+- Done! Happy ?
+
+The fun part is you already learned how to create a "VBScript MsgBox Function" in two lines of code and how to turn it or off it. But not everyone knows anymore.
+
+So, if you put that VBS file on someone's computer and they click it, they will be blown away. The fear of the VIRUS they will be in tension.
 
 ## License
 
 Distributed for all student under the [personal](https://github.com/mydul) licence.
-
-
-## Acknowledgements
-
-- [x]  [Mr. Amir Tosson](https://github.com/amirtosson)
-- [x]  [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [x]  [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## Authors
